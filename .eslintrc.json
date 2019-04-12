@@ -1,0 +1,13 @@
+{
+  "env": {
+    "jest/globals": true
+  },
+  "extends": "airbnb-base",
+  "plugins": ["jest"],
+  "rules" :{
+    "no-console": "off",
+    "no-unused-vars": [2, {
+      "argsIgnorePattern": "^_"
+    }]
+  }
+}
