@@ -1,0 +1,25 @@
+{
+  "name": "higher-order",
+  "version": "0.1.0",
+  "description": "Higher-order functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfarmer/higher-order-js.git"
+  },
+  "author": "Jesse Farmer <jesse@20bits.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfarmer/higher-order-js/issues"
+  },
+  "homepage": "https://github.com/jfarmer/higher-order-js#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "jest": "^24.7.1"
+  }
+}

@@ -1,0 +1,18 @@
+module.exports = {
+  compose:  require('./lib/compose'),
+  concat:   require('./lib/concat'),
+  concatIf: require('./lib/concatIf'),
+  curry:    require('./lib/curry'),
+  each:     require('./lib/each'),
+  filter:   require('./lib/filter'),
+  id:       require('./lib/id'),
+  map:      require('./lib/map'),
+  max:      require('./lib/max'),
+  maxBy:    require('./lib/maxBy'),
+  min:      require('./lib/min'),
+  minBy:    require('./lib/minBy'),
+  prop:     require('./lib/prop'),
+  reduce:   require('./lib/reduce'),
+  reduce1:  require('./lib/reduce1'),
+  reject:   require('./lib/reject'),
+};
